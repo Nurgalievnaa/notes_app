@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "801717864458",
+    "project_id": "notesapp-f1dde",
+    "storage_bucket": "notesapp-f1dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801717864458:android:2b49dae52145c388a7f7f3",
+        "android_client_info": {
+          "package_name": "com.codingwithme.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801717864458-4o8fcpprc69ibkbh0ghb1nkq9vef3rap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBBnz2XsQnPsYlzGBvAuvYddynZe7QQzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801717864458-4o8fcpprc69ibkbh0ghb1nkq9vef3rap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801717864458:android:ef789d3cc9f6ae75a7f7f3",
+        "android_client_info": {
+          "package_name": "kz.mobile.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801717864458-1ashskog9lpqhi034so173tto6t3auht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.mobile.noteapp",
+            "certificate_hash": "92416a47ee36d8e89e75af1758b0a314e8798866"
+          }
+        },
+        {
+          "client_id": "801717864458-4o8fcpprc69ibkbh0ghb1nkq9vef3rap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBBnz2XsQnPsYlzGBvAuvYddynZe7QQzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801717864458-4o8fcpprc69ibkbh0ghb1nkq9vef3rap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

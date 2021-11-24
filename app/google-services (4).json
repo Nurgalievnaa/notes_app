@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117600841048",
+    "project_id": "notes-58605",
+    "storage_bucket": "notes-58605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117600841048:android:668a3ce30528d07c1d492d",
+        "android_client_info": {
+          "package_name": "kz.mobile.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117600841048-9v05d1qljneln0oi0p1uagt4379bthm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1v5J0G9JVxBQt2zxEm3l1qwh61A3m3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117600841048-9v05d1qljneln0oi0p1uagt4379bthm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
